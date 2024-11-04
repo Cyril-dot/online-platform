@@ -795,7 +795,7 @@ except pd.errors.ParserError:
             If you have specific areas of interest or questions, feel free to ask for more details!
         `;
     }
-    else if (lowerCaseMessage.includes("how to graph") || lowerCaseMessage.includes("linear equation")) {
+    else if (lowerCaseMessage.includes("IT courses overview") || lowerCaseMessage.includes("course to choose in IT")) {
         return `
         ### Overview of Common IT Courses
 
